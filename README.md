@@ -1,4 +1,6 @@
-Node.JS: Lokalt
+Node.JS introduksjon:
+
+Backend system med JavaScript kode, der man kan lage "alt mulig".
 
 Bash commands:
 ls
