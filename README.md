@@ -17,3 +17,9 @@ touch
 echo
 cat
 less
+
+Start med npm init
+entry index.js
+type: module
+package.json should look like: /image.png
+lag ny fil: logger.js

@@ -1,0 +1,23 @@
+{
+  "name": "nodeintro",
+  "version": "1.0.0",
+  "description": "node intro",
+  "keywords": [
+    "nodeIntro"
+  ],
+  "homepage": "https://github.com/jespergran98/nodeIntro#readme",
+  "bugs": {
+    "url": "https://github.com/jespergran98/nodeIntro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jespergran98/nodeIntro.git"
+  },
+  "license": "ISC",
+  "author": "Jesper",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "node intro"
+  }
+}
