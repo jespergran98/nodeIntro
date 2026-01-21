@@ -23,3 +23,14 @@ entry index.js
 type: module
 package.json should look like: /image.png
 lag ny fil: logger.js
+
+---
+
+CRUD
+HTTP-metoden:
+C - Create -> Post
+R - Read -> Get
+U - Update -> Put, Patch
+D - Delete -> --||--
+
+lær om event emitter: https://nodejs.org/en/learn/asynchronous-work/the-nodejs-event-emitter
